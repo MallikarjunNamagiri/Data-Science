@@ -1,0 +1,7 @@
+BeautifulSoup4==4.8.2
+PySocks==1.7.1
+eventlet==0.25.1
+greenlet==0.4.15
+psycopg2==2.8.4
+redis==3.3.11
+requests==2.22.0
